@@ -1,6 +1,6 @@
 # BThotel
 
-Purpose
+# Purpose
 A website that offers hotel stay
 
 Built With
